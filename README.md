@@ -2,6 +2,7 @@
 
 - `notebook.ipynb` - plotting poverty rates of zipcodes in NYC as univariate distributions in ggplot
 - `notebook-2.ipynb` - plotting poverty rates of zipcodes in NYC by borough
+- `notebook-3.ipynb` - compare the summary statistics (median, mean, stdev) to the exploratory viz, learn a tiny bit more R syntax
 
 ## Quickstart
 (In case you haven't already installed this stuff!)
