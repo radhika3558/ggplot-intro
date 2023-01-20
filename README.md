@@ -1,7 +1,7 @@
 # Intro to plotting in ggplot
 
-`notebook.ipynb` - plotting poverty rates of zipcodes in NYC as univariate distributions in ggplot
-`notebook-2.ipynb` - plotting poverty rates of zipcodes in NYC by borough
+- `notebook.ipynb` - plotting poverty rates of zipcodes in NYC as univariate distributions in ggplot
+- `notebook-2.ipynb` - plotting poverty rates of zipcodes in NYC by borough
 
 ## Quickstart
 (In case you haven't already installed this stuff!)
